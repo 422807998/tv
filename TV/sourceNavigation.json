@@ -7,7 +7,7 @@
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": true,
+      "autoNext": false,
       "decoder": 0,
       "webPlus": {}
     },
@@ -45,10 +45,10 @@
       "webPlus": {}
     },
     {
-      "name": "yk(新增/IJK解码)",
+      "name": "youku(新增/IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
       "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/youku.m3u",
-      "type": "txt",
+      "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
       "autoNext": false,
@@ -59,7 +59,7 @@
       "name": "央卫(更新:20210205)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
       "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/live.m3u",
-      "type": "txt",
+      "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,

@@ -30,18 +30,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 1,
-      "webPlus": {}
-    },
-    {
-      "name": "(新增)综艺轮播(选IJK解码)",
-      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/综艺轮播.txt",
-      "type": "txt",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "decoder": 1,
+      "decoder": 0,
       "webPlus": {}
     },
     {
@@ -70,17 +59,6 @@
       "name": "iHOT系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
       "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/ihot.m3u",
-      "type": "m3u",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "YY轮播(选IKJ解码)",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/yy.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,

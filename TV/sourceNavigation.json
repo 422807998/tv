@@ -3,7 +3,7 @@
     {
       "name": "稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/douyu.txt",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/douyu.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -14,7 +14,7 @@
     {
       "name": "电影轮播(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/电影轮播.txt",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/电影轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -25,7 +25,7 @@
     {
       "name": "电视轮播(选IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/电视轮播.txt",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/电视轮播.txt",
       "type": "txt",
       "subTitle": "",
       "click": true,
@@ -36,7 +36,7 @@
     {
       "name": "youku(新增/IJK解码)",
       "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/youku.m3u",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/youku.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -47,7 +47,7 @@
     {
       "name": "央卫(更新:20210205)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/live.m3u",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/live.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -58,7 +58,7 @@
     {
       "name": "iHOT系列",
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/ihot.m3u",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/ihot.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -69,7 +69,7 @@
     {
       "name": "动画",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/mjxd.json",
+      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/mjxd.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,

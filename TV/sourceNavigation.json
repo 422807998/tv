@@ -39,7 +39,7 @@
       "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/youku.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
@@ -72,7 +72,7 @@
       "url": "https://gitee.com/mhdtv/f-tv/raw/master/TV/mjxd.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "autoNext": false,
       "decoder": 0,
       "webPlus": {}

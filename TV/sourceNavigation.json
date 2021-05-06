@@ -39,9 +39,9 @@
       "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/youku.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -50,9 +50,9 @@
       "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/live.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -73,8 +73,8 @@
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": false,
-      "decoder": 0,
+      "autoNext": true,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -85,7 +85,7 @@
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }
   ]

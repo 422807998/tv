@@ -9,7 +9,7 @@
       "ads": "",
       "webUrl": "https://www.shenma4480.com",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
         "nav_url": "https://www.shenma4480.com/type/navCate-navPage/",
@@ -327,7 +327,7 @@
       "ads": "",
       "webUrl": "https://www.paofans.com",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
         "nav_url": "https://www.paofans.com/show/navCate--------navPage---.html",
@@ -647,7 +647,7 @@
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
@@ -1485,7 +1485,7 @@
       "ads": "",
       "webUrl": "http://8hyy.cc",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "http://8hyy.cc/search.php?searchword={kw}",
         "nav_url": "http://8hyy.cc/frim/navCate-navPage.html",

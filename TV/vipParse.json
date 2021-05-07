@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "id": 19,
       "name": "线路8",
-      "ad": "no",
-      "url": "http://okjx.cc/?url="
+      "url": "http://okjx.cc/?url=",
+      "ad": "",
+      "click": true
     },
         {
       "name": "解析大师",

@@ -1,5 +1,6 @@
 {
     "data":[
+        {"name": "兔小贝故事", "url": "https://so.youku.com/search_video/q_%E5%85%94%E5%B0%8F%E8%B4%9D%E6%95%85%E4%BA%8B", "parse": true},
         {"name": "你好，李焕英", "url": "https://www.wanmeikk.me/play/3039_1_1.html", "parse": true},
 	    {"name": "唐人街探案3", "url": "https://www.wanmeikk.me/play/3038_1_1.html", "parse": true},
 	    {"name": "鬼灭之刃 剧场版 无限列车篇", "url": "https://www.wanmeikk.me/play/3037_1_1.html", "parse": true},

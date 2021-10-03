@@ -3,7 +3,7 @@
     {
       "name": "动画",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/mjxd.json",
+      "webUrl": "https://gitee.com/mhdtv/ftv/raw/master/TV/mjxd.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -14,7 +14,7 @@
     {
       "name": "自定义",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
-      "url": "https://gitee.com/mhdtv/ftv/raw/master/TV/自定义.json",
+      "webUrl": "https://gitee.com/mhdtv/ftv/raw/master/TV/自定义.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,

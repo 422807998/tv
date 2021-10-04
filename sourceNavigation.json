@@ -17,7 +17,7 @@
       "webPlus": {}
     },
     {
-      "name": "儿童",
+      "name": "萌鸡小队 第三季",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
       "webUrl": "https://cdn.jsdelivr.net/gh/422807998/tv/TV/mjxd.json",
       "type": "gitJson",
@@ -33,10 +33,10 @@
       "webPlus": {}
     },
     {
-      "name": "自定义.json",
+      "name": "超级宝贝JOJO",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/tv/TV/自定义.json",
-      "type": "m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/tv/TV/jojo.json",
+      "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": true,

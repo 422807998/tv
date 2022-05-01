@@ -1,6 +1,6 @@
 {
   "data": [
-    {"name":"纯净1","url":"https://z1.m1907.cn/?jx=","ad": "",
+      {"name":"纯净1","url":"https://z1.m1907.cn/?jx=","ad": "",
       "click": true},
             {"name":"B站1","url":"https://vip.parwix.com:4433/player/?url=","ad": "",
       "click": true},
@@ -16,7 +16,8 @@
       "click": true},
             {"name":"CHok","url":"https://www.gai4.com/?url=","ad": "",
       "click": true},
-            {"name":"ckmov","url":"https://www.ckmov.vip/api.php?url="},
+            {"name":"ckmov","url":"https://www.ckmov.vip/api.php?url=","ad": "",
+      "click": true}},
             {"name":"大幕","url":"https://jx.52damu.com/dmjx/jiexi.php?url=","ad": "",
       "click": true},
             {"name":"H8","url":"https://www.h8jx.com/jiexi.php?url=","ad": "",
@@ -76,7 +77,8 @@
             {"name":"17云","url":"https://www.1717yun.com/jx/ty.php?url=","ad": "",
       "click": true},
             {"name":"4K","url":"https://jx.4kdv.com/?url=","ad": "",
-      "click": true},
+      "click": true
+     },
             {"name":"8090","url":"https://www.8090g.cn/?url=","ad": "",
       "click": true},
     {

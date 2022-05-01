@@ -1,7 +1,7 @@
 {
   "data": [
       {"name":"纯净1","url":"https://z1.m1907.cn/?jx=","ad": "",
-      "click": true},
+      "click": true },
             {"name":"B站1","url":"https://vip.parwix.com:4433/player/?url=","ad": "",
       "click": true},
             {"name":"爱豆","url":"https://jx.aidouer.net/?url=","ad": "",
@@ -17,7 +17,7 @@
             {"name":"CHok","url":"https://www.gai4.com/?url=","ad": "",
       "click": true},
             {"name":"ckmov","url":"https://www.ckmov.vip/api.php?url=","ad": "",
-      "click": true}},
+      "click": true },
             {"name":"大幕","url":"https://jx.52damu.com/dmjx/jiexi.php?url=","ad": "",
       "click": true},
             {"name":"H8","url":"https://www.h8jx.com/jiexi.php?url=","ad": "",

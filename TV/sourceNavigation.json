@@ -1,33 +1,33 @@
 {
-  “数据”：[
+  "data": [
     {
-      "名称" : "色字" ,
-      “图片”：“https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg”，
-      “webUrl”：“https://pastebin.com/raw/FWKEUG5a”，
-      “类型”：“txt”，
-      "subTitle" : "经典动画电影整理中" ,
-      “点击”：真，
-      “autoNext”：假，
-      “webOpen”：假，
-      “keyDownPlay”：true，
-      “keyUpPlay”：true，
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, 如 Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/ 8.9 移动 Safari /537.36" ,
-      “广告”：“”，
-      “解码器”：0，
-      “网络加号”：{  }
-    } ,
+      "name": "轮播",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "webUrl": "https://pastebin.com/raw/FWKEUG5a",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
     {
-      "name" : "萌鸡小队第三季" ,
-      “图片”：“http://puui.qpic.cn/vcover_vt_pic/ 0 /mzc 0 0 200 dt 17 dtj 1606468776885 / 0 ”，
-      “webUrl”：“https://cdn.jsdelivr.net/gh/422807998/tv/TV/mjxd.json ”，
-      “类型”：“gitJson”，
-      "subTitle" : "经典动画电影整理中" ,
-      “点击”：真，
-      “autoNext”：假，
-      “webOpen”：假，
-      “keyDownPlay”：true，
-      “keyUpPlay”：true，
-      "userAgent" : "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, 如 Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/ 8.9 移动 Safari/537.36" ,
+      "name": "萌鸡小队 第三季",
+      "pic": "http://puui.qpic.cn/vcover_vt_pic/0/mzc00200dt17dtj1606468776885/0",
+      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/tv/TV/mjxd.json",
+      "type": "gitJson",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
       "ads": "",
       "decoder": 0,
       "webPlus": {}
@@ -58,7 +58,7 @@
       "autoNext": false,
       "webOpen": false,
       "keyDownPlay": true,
-      “keyUpPlay”：true，
+      "keyUpPlay": true,
       "userAgent": "",
       "ads": "",
       "decoder": 0,
